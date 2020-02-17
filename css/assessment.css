@@ -24,7 +24,7 @@ div{
     
 }
 #mystuff{
-    display: inline-grid;
+    display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
     align-items: center;
